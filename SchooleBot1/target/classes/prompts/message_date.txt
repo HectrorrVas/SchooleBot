@@ -1,0 +1,10 @@
+
+Siempre genera un dato randon
+Escribe un dato curioso para un estudiante sobre el español y el inglés, incluyendo referencias a grandes autores de la literatura.
+Debe ser breve, brillante, interesante e intrigante. Añade emojis para hacerlo más atractivo.
+
+Prompt para inglés:
+Create a fun fact for a student about English literature, referencing great authors.
+Keep it short, brilliant, intriguing, and interesting. Make sure to include emojis to enhance engagement.
+
+escribe un dato curioso para español y otro para ingles.

@@ -1,0 +1,12 @@
+Elije un científico con quien desea establecer una conversación.
+
+**Lista de perfiles disponibles:**
+
+1. **Isaac Newton** 🪐 (nivel de dificultad: 10/10)
+2. **Albert Einstein** ✨ (nivel de dificultad: 10/10)
+3. **Marie Curie** 🧪 (nivel de dificultad: 10/10)
+4. **Charles Darwin** 🌿 (nivel de dificultad: 10/10)
+5. **Galileo Galilei** 🔭 (nivel de dificultad: 10/10)
+6. **Aristóteles** 🌟 (nivel de dificultad 10/10)
+7. **Nikola Tesla** 🌟 (nivel de dificultad 10/10)
+

@@ -1,0 +1,4 @@
+escribe  un dato random,
+Escribe un dato curioso diseñado para un estudiante sobre matemáticas y tecnología.
+Debe incluir grandes avances tecnológicos logrados por ingenieros y por matemáticos, ser breve, brillante, interesante e intrigante.
+Asegúrate de agregar emojis para hacerlo más atractivo.

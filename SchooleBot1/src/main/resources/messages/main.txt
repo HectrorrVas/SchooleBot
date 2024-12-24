@@ -1,0 +1,18 @@
+Este bot combina la conveniencia de Telegram y la potencia de ChatGPT para ayudarte a aprender de forma divertida y efectiva sobre sociales, español, inglés, historia y filosofía.
+
+El chatbot puede:
+
+1. Explicar conceptos clave en temas de sociales, historia y filosofía 📚
+2. Ayudarte a practicar inglés con ejercicios y conversaciones 🌐
+3. Mejorar tus habilidades de escritura en español con correcciones y sugerencias ✏️
+4. Responder preguntas relacionadas con los temas de interés 🤔
+5. Proporcionar datos curiosos y citas históricas para inspirarte ✨
+
+Comandos y enlaces útiles:
+
+1. /Start - menú principal del bot
+2. /conceptos - explica un concepto específico de sociales, historia o filosofía 🖌️
+3. /practica - ejercicios de inglés o español 🔄
+4. /escritura - mejora un texto en español ✍️
+5. /curiosidades - datos curiosos y citas históricas 📖
+6. /gpt - hazle una pregunta sobre cualquiera de los temas 🧪
